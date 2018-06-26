@@ -8,7 +8,4 @@ Models:
 - [Basic Variational Autoencoder](basic_variational_autoencoder.ipynb)
 - [Improved Variational Autoencoder](improved_variational_autoencoder.ipynb)
 - [Recurrent Neural Network](RNN_MNIST.ipynb)
-
-
-# Disclaimer
-Some notebooks are using and old version of TensorFlow! Several parts of the code will look different in a newer version of TensorFlow. The notebooks will be adapted to the newest TensorFlow version over the next months.
+- [Convolutional Neural Network](CNN_MNIST.ipynb)
